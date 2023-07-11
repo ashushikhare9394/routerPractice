@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.image {
+  width: 40px;
+}
+.heading {
+  color: #12022f;
+  font-size: 14px;
+  font-family: 'Roboto';
+}
+.nav-item {
+  list-style-type: none;
+}
+.nav-new {
+  color: #12022f;
+  font-size: 12px;
+  font-weight: 300;
+  font-family: 'Roboto';
+}

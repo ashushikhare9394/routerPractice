@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.bg-container {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img-about {
+  width: 40px;
+}
+.heading {
+  color: #6d396b;
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
